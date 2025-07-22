@@ -207,4 +207,3 @@ Guidelines...
 MIT
 ```
 
-Remember, the best READMEs are clear, comprehensive, and make it easy for others to understand and use your project.
